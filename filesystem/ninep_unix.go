@@ -12,7 +12,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/Harvey-OS/ninep/protocol"
+	"github.com/harvey-os/ninep/protocol"
 )
 
 func fileInfoToQID(d os.FileInfo) protocol.QID {

@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/Harvey-OS/ninep/protocol"
+	"github.com/harvey-os/ninep/protocol"
 )
 
 type Server struct {

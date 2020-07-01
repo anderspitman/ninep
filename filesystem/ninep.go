@@ -10,7 +10,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/Harvey-OS/ninep/protocol"
+	"github.com/harvey-os/ninep/protocol"
 )
 
 var (
