@@ -4,6 +4,7 @@
 // This code is imported from the old ninep repo,
 // with some changes.
 
+//go:build windows
 // +build windows
 
 package ufs

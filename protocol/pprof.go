@@ -1,3 +1,4 @@
+//go:build pprof
 // +build pprof
 
 package protocol
@@ -6,9 +7,7 @@ import (
 	"log"
 	"net/http"
 	_ "net/http/pprof"
-
 )
-
 
 func init() {
 	go func() {
